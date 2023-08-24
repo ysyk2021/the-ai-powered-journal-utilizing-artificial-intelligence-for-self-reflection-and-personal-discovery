@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI Technology for Journaling
-=====================================================
 
 In this chapter, we will provide an overview of AI technology and its capabilities for journaling, including types of AI such as natural language processing, machine learning, and deep learning, as well as the advantages of AI for self-reflection and personal growth.
 

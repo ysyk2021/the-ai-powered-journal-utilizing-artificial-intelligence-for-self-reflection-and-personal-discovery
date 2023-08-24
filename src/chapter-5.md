@@ -1,5 +1,3 @@
-Chapter 4: Identifying Patterns and Goals with AI
-=================================================
 
 In this chapter, we will explore how to use AI technology to identify patterns in your journal entries and set goals based on those insights. We will also discuss personalized suggestions for behavior change and personal improvement, as well as addressing ethical considerations in using AI for goal-setting.
 

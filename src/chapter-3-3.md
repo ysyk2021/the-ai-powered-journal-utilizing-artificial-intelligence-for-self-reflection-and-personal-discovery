@@ -1,5 +1,3 @@
-Addressing Concerns and Ethical Considerations in Using AI for Journaling
-================================================================================================================================
 
 In this chapter, we will discuss potential concerns and ethical considerations when using AI technologies for journaling, and how to address them.
 

@@ -1,5 +1,3 @@
-Use of AI for Personalized Prompts and Suggestions
-=========================================================================================================
 
 In this chapter, we will discuss how AI technologies can be used to provide personalized prompts and suggestions in an AI-powered journal, assisting individuals in their journey of self-reflection and personal discovery.
 

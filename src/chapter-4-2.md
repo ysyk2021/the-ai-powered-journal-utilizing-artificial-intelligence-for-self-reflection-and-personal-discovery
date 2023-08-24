@@ -1,5 +1,3 @@
-Personalized Insights and Trends on Mood and Mental Health
-==============================================================================================================
 
 In this chapter, we will discuss how AI technologies can provide personalized insights and trends on mood and mental health through emotional analysis in an AI-powered journal.
 

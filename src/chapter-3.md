@@ -1,5 +1,3 @@
-Chapter 2: Getting Started with AI-Powered Journaling
-=====================================================
 
 In this chapter, we will discuss techniques for starting an AI-powered journal, the use of AI for personalized prompts and suggestions, and addressing concerns and ethical considerations in using AI for journaling.
 

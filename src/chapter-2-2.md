@@ -1,5 +1,3 @@
-Types of AI: natural language processing, machine learning, and deep learning
-====================================================================================================================================
 
 Artificial intelligence (AI) technology can be a powerful tool for journaling by providing personalized insights and recommendations for self-reflection and personal discovery. In this chapter, we will explore the different types of AI technology, including natural language processing, machine learning, and deep learning.
 

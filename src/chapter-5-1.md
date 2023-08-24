@@ -1,5 +1,3 @@
-Use of AI for Identifying Patterns and Setting Goals Based on Journal Entries
-================================================================================================================================
 
 In this chapter, we will discuss how AI technologies can be used to identify patterns and set goals based on journal entries in an AI-powered journal.
 

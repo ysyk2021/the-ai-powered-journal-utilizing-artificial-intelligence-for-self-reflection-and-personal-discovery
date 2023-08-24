@@ -1,5 +1,3 @@
-Addressing Ethical Considerations in Using AI for Goal-Setting
-=================================================================================================================
 
 Artificial intelligence (AI) can be a powerful tool for identifying patterns and setting goals for personal growth and development. However, there are also ethical considerations that must be addressed when using AI for goal-setting.
 

@@ -1,5 +1,3 @@
-Chapter 5: Collaborating with AI for Personal Growth
-====================================================
 
 In this chapter, we'll explore techniques for collaborating with AI-powered tools for co-journaling and reflection, the benefits and limitations of using AI for collaboration, and how to address concerns about the role of AI in personal growth and development.
 

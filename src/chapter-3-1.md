@@ -1,5 +1,3 @@
-Techniques for Starting an AI-Powered Journal
-====================================================================================================
 
 In this chapter, we will discuss techniques for starting an AI-powered journal, including tips for setting goals, establishing a writing routine, and utilizing AI technologies effectively.
 

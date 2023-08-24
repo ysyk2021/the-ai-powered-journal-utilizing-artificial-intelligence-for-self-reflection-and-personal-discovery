@@ -1,5 +1,3 @@
-Explanation of AI technology and its capabilities for journaling
-=======================================================================================================================
 
 In this chapter, we will provide an overview of AI technology and its capabilities for journaling.
 

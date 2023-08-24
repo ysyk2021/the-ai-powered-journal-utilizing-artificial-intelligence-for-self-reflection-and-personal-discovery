@@ -1,5 +1,3 @@
-Use of AI for Analyzing Thoughts and Emotions in Journal Entries
-====================================================================================================================
 
 In this chapter, we will discuss how AI technologies can be used to analyze thoughts and emotions in journal entries in an AI-powered journal.
 

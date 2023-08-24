@@ -1,5 +1,3 @@
-Chapter 6: Building a Sustainable Journaling Practice with AI
-=============================================================
 
 In this chapter, we'll explore strategies for building a sustainable journaling practice with AI, addressing potential challenges and obstacles in using AI for journaling, and ensuring privacy and security in AI-powered journaling.
 

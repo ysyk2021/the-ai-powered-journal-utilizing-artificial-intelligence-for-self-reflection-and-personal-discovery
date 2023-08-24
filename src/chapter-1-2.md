@@ -1,5 +1,3 @@
-Importance of Self-Reflection and Personal Discovery through Journaling
-=====================================================================================
 
 Journaling has long been recognized as a valuable tool for self-reflection and personal discovery. By putting our thoughts and emotions down on paper, we can gain greater insight into our own mental and emotional states, identify patterns and triggers, and work towards personal growth goals.
 
