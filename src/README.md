@@ -8,3 +8,7 @@ In this book, we will explore how AI technology can enhance your personal growth
 Through this book, we hope to provide insights and guidance on how to integrate AI technology into your self-reflection and personal development practices. By using AI as a tool to complement human reflection, we can achieve deeper insights into ourselves and our lives. Thank you for joining us on this journey of self-discovery and personal growth with AI technology.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
