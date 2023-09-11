@@ -1,5 +1,4 @@
-Chapter: Strategies for Building a Sustainable Journaling Practice with AI
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we explore strategies for building a sustainable journaling practice with AI. While AI can enhance and enrich our journaling experience, it is essential to develop habits and routines that ensure long-term engagement, personal growth, and well-being. By incorporating these strategies, we can leverage the power of AI to maintain a sustainable and impactful journaling practice.
 

@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Obstacles in Using AI for Journaling
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we tackle the potential challenges and obstacles that may arise in using AI for journaling. While AI can greatly enhance the journaling experience, it is essential to address these concerns to ensure a smooth and fulfilling practice. By understanding and overcoming these challenges, we can leverage AI effectively for self-reflection and personal discovery.
 

@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and Its Capabilities for Journaling
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we dive into a comprehensive exploration of AI technology and its capabilities for journaling. By understanding the underlying principles and potential applications of AI, we can unlock new possibilities for self-reflection and personal growth.
 

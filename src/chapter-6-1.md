@@ -1,5 +1,4 @@
-Chapter: Collaboration Techniques with AI-Powered Tools for Co-Journaling and Reflection
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we explore collaboration techniques that leverage AI-powered tools to enable co-journaling and reflection. By collaborating with others through the use of AI, we can gain new perspectives, insights, and a richer understanding of ourselves.
 

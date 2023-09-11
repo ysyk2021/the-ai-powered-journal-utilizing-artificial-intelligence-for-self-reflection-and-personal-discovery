@@ -1,5 +1,4 @@
-Chapter: Techniques for Starting an AI-Powered Journal
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery*, we explore various techniques for starting an AI-powered journal. These techniques aim to help individuals establish a consistent journaling practice that incorporates the benefits of AI algorithms to enhance self-reflection and personal growth.
 

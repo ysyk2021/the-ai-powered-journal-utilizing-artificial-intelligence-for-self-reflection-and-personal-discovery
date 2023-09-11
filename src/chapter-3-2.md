@@ -1,5 +1,4 @@
-Chapter: Use of AI for Personalized Prompts and Suggestions
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery*, we explore the use of AI for generating personalized prompts and suggestions within the journaling process. By leveraging the capabilities of AI algorithms, individuals can receive tailored prompts and suggestions that facilitate a more meaningful and insightful journaling experience.
 

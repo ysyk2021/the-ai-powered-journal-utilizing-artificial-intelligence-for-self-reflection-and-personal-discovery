@@ -1,5 +1,4 @@
-Chapter: Potential Challenges and Limitations of Using AI for Emotional Analysis
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we examine the potential challenges and limitations associated with using AI for emotional analysis. While AI can provide valuable insights into our emotions and behaviors, it is important to understand its limitations and address the challenges related to emotional analysis.
 

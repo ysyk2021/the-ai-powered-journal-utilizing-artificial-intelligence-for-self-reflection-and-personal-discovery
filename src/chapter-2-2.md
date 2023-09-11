@@ -1,5 +1,4 @@
-Chapter: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery," we delve into the different types of AI that underpin the capabilities of AI-powered journaling. Specifically, we explore Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). By understanding these technologies, we can appreciate their role in enabling sophisticated journaling systems and their impact on self-reflection and personal discovery.
 

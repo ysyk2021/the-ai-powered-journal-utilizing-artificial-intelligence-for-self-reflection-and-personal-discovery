@@ -1,5 +1,4 @@
-Chapter: Addressing Concerns and Ethical Considerations in Using AI for Journaling
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of *The AI-Powered Journal: Utilizing Artificial Intelligence for Self-Reflection and Personal Discovery*, we delve into the concerns and ethical considerations associated with using AI for journaling. While AI can provide valuable insights and support in our personal growth journey, it is crucial to address these concerns to ensure responsible and ethical usage.
 
